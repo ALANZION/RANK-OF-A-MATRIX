@@ -22,7 +22,8 @@ print(sol)
 ```
 
 ## Output:
-![Alt text](image.png)
+![Screenshot 2023-11-24 190959](https://github.com/ALANZION/RANK-OF-A-MATRIX/assets/145743064/abe2f0ce-75df-4f17-9847-4b8373d27386)
+
 ## Result:
 Thus the rank for the given matrix is successfully solved by  using a python program.
 
